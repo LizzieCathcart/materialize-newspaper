@@ -1,0 +1,45 @@
+nav {
+	background: black;
+	font-family: 'News Cycle', sans-serif;
+}
+
+
+hr {
+	float: left;
+	margin: 30px;
+	width: 80%;
+}
+
+
+.top img {
+	height: 100%;
+	width: 100%;
+}
+
+.row p {
+
+	font: bold;
+	font-size: 16px;
+	border: solid black 1px;
+	padding: 5px;
+	font-family: 'Raleway', sans-serif;
+	background: black;
+	color: white;
+}
+
+
+.row p:hover {
+	color: blue
+}
+
+
+
+
+
+
+
+
+
+
+
+
